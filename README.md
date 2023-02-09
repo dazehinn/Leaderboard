@@ -35,7 +35,7 @@
 
 # 📖 Leaderboard <a name="about-project"></a>
 
-**Leaderboard** is a tool for managaging your everyday tasks. You add your tasks and upon completion, you check to indicate its done.
+**Leaderboard** displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -55,15 +55,15 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Add button]**
-- **[Remove button]**
-
+- **[Add player name]**
+- **[Add player score]**
+- **[Display top player scores]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- You can see the live demo of this project [here](https://dazehinn.github.io/to-do-list/)
+coming soon...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,7 +90,7 @@ Have text editor installed. (VSCode, sublime, atom)
 * run `npm install` to install the dev dependencies
 
 
-                                                                                                                                                  0### Usage
+### Usage
 * run `npm run start` to start the project
 
 ### Deployment
@@ -122,8 +122,8 @@ You can deploy this project using Github pages
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[Desktop Version]**
-- [ ] **[Transitions and animations]**
+- [ ] **Communication with API**
+- [ ] **Improved styling**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
