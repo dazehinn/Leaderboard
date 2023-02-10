@@ -7,9 +7,63 @@
 main {
   display: flex;
   flex-wrap: wrap;
-  gap: 16px;
+  justify-content: space-around;
+  align-items: baseline;
+  padding: 5% 15%;
+}
+
+h1 {
+  padding: 24px;
 }
 
 input {
   margin: 8px;
+  padding: 8px;
+}
+
+button {
+  box-shadow: 5px 2px 1px 1px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: lightslategray;
+}
+
+button:active {
+  background-color: blueviolet;
+}
+
+.score-section {
+  width: 40vw;
+}
+
+.recent-scores {
+  display: inline-block;
+}
+
+.score-section,
+.score-entry-section,
+.recent-scores {
+  margin: 25px 1px;
+}
+
+.scoreboard {
+  height: 50vh;
+  overflow-y: scroll;
+  border: 1px solid black;
+}
+
+.scoreboard :nth-child(2n) {
+  background-color: rgb(244, 242, 247);
+  padding: 5px;
+}
+
+.scoreboard :nth-child(2n+1) {
+  background-color: rgb(175, 170, 160);
+  padding: 5px;
+}
+
+#submit-btn {
+  float: right;
 }
