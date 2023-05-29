@@ -52,6 +52,7 @@ button:active {
   height: 50vh;
   overflow-y: scroll;
   border: 1px solid black;
+  overflow-x: hidden;
 }
 
 .scoreboard :nth-child(2n) {

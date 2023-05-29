@@ -18,3 +18,5 @@ refreshBtn.addEventListener('click', (e) => {
   e.preventDefault();
   refreshScore();
 });
+
+window.onload = refreshScore();
