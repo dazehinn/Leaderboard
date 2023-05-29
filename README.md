@@ -55,15 +55,15 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Add player name]**
-- **[Add player score]**
-- **[Display top player scores]**
+- **Add player name**
+- **Add player score**
+- **Display all players and scores**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-coming soon...
+View live demo [here](https://dazehinn.github.io/Leaderboard/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,7 +120,6 @@ You can deploy this project using Github pages
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **Communication with API**
 - [ ] **Improved styling**
@@ -140,7 +139,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project follow me on GitHub, twitter and LinkedIn
+If you like this project give it a star ⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
