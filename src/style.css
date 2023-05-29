@@ -19,6 +19,7 @@ h1 {
 input {
   margin: 8px;
   padding: 8px;
+  width: 100%
 }
 
 button {
